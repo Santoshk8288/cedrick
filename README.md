@@ -1,1 +1,1 @@
-# cedrick
+# Skeleton project for Swagger
